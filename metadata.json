@@ -1,0 +1,6 @@
+{
+  "name": "SEO-GEO-AEO Strategist",
+  "description": "AI Content Generation Engine utilizing the requested 2026 Strategy to generate multi-platform optimal content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
